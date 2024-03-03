@@ -1,5 +1,5 @@
 public class SpringBootTest {
     public static void main(String[] args) {
-        System.out.println("feature-springboot2");
+        System.out.println("feature-springboot2.0");
     }
 }
